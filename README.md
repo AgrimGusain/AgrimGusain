@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hey, I'm Agrim Gusain<br><br>🔭 I have made:<br><br>Remora – Gen-AI Memory Assistant for Dementia Care (Flutter, Python, Firebase, HuggingFace, TFLite)<br><br>NanoSign – Real-time Sign Language Translation System (YOLOv5, OpenCV, PyTorch, Jetson, CUDA)<br><br>NeuraScribe – Chrome Extension for Real-Time Audio Summarization (JavaScript, Python, Flask, HuggingFace, NLP)<br><br>👯 I’m looking to collaborate on:<br><br>AI/ML projects (especially Computer Vision and NLP)<br><br>Open-source tools for Neovim/Linux productivity<br><br>🤝 I’m looking for help with:<br><br>Optimizing low-latency AI inference on edge devices<br><br>Improving real-time translation systems<br><br>🌱 I’m currently learning:<br><br>Advanced NLP techniques for cleaning noisy model predictions<br><br>System-level performance optimization<br><br>💬 Ask me about:<br><br>DSA & Competitive Programming (C++)<br><br>Building AI-driven apps<br><br>Linux & Neovim setups
 
-<!--
-**AgrimGusain/AgrimGusain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agrimgusain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AgrimGusain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gusainagrim@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AgrimGusain&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AgrimGusain&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgrimGusain&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
