@@ -1,5 +1,7 @@
+
 # 💫 About Me:
-Hey, I'm Agrim Gusain<br><br>🔭 I have made:<br><br>Remora – Gen-AI Memory Assistant for Dementia Care (Flutter, Python, Firebase, HuggingFace, TFLite)<br><br>NanoSign – Real-time Sign Language Translation System (YOLOv5, OpenCV, PyTorch, Jetson, CUDA)<br><br>NeuraScribe – Chrome Extension for Real-Time Audio Summarization (JavaScript, Python, Flask, HuggingFace, NLP)<br><br>👯 I’m looking to collaborate on:<br><br>AI/ML projects (especially Computer Vision and NLP)<br><br>Open-source tools for Neovim/Linux productivity<br><br>🤝 I’m looking for help with:<br><br>Optimizing low-latency AI inference on edge devices<br><br>Improving real-time translation systems<br><br>🌱 I’m currently learning:<br><br>Advanced NLP techniques for cleaning noisy model predictions<br><br>System-level performance optimization<br><br>💬 Ask me about:<br><br>DSA & Competitive Programming (C++)<br><br>Building AI-driven apps<br><br>Linux & Neovim setups
+Hey, I'm Agrim Gusain,<br>💻 Passionate about **DSA, Competitive Programming, AI/ML, and Web/App Development**.  
+🚀 I love building practical projects that combine **AI, systems, and usability**.
 
 
 ## 🌐 Socials:
